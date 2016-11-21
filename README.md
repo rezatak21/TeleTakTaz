@@ -8,18 +8,33 @@ Unofficial Bot
 
 **https://github.com/new**
 
+![testt](http://s3.picofile.com/file/8221045300/%D9%81356%D8%A7%D8%A8%D8%BA%D8%A7.png)
+
+
 **ـــــــــــمرحله2ـــــــــــــــــ**
 ============
+
+![testt](http://s3.picofile.com/file/8221046976/%D8%A8%D8%A8%D8%A8%DB%8C%D8%AB6.png)
+
 مرحلهـ سهـ
 ============
 خب در این مرحله شما باید ادرس پیج مارو وارد کنید یعنی این ادرس 
 
-**https://github.com/rezatak21/TeleTakTaz
-(دقت کنید که حروف T بزرگ باید وارد کنید)
+**https://github.com/pAyDaAr/Iranian_Bot**
+
+![testtt](http://s3.picofile.com/file/8221048884/%D9%8264%D8%BA.png)
+
 مرحلهـ چهار
 ============
+
+![testrtt](http://s3.picofile.com/file/8221049842/%DB%8C%D9%84%D9%84%DB%8C%D9%84%DB%8C%D9%846.png)
 ---------------------
 **خب الان شما باید رو صفحه که براتون ساخته شد خودتون رو ادمین کنید روی بات**
+
+![testttds](http://s6.picofile.com/file/8221051418/54%D8%BA675.png)
+
+
+![sgg](http://s6.picofile.com/file/8221051918/124375.png)
 
 خب الان باید شما فایلو ادیت کنید 
 
@@ -60,8 +75,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 ```bash
 cd $HOME
-git clone https://github.com/rezatak21/TeleTakTaz
-cd TeleTakTaz
+git clone https://github.com/pAyDaAr/Iranian_Bot.git
+cd Iranian_Bot
 ./launch.sh install
 ./launch.sh
 ```
@@ -69,21 +84,21 @@ cd TeleTakTaz
 
 **شما باید ادرس زیر رو ادیت کنید**
 
-**https://github.com/rezatak21/TeleTakTaz**
+**https://github.com/pAyDaAr/Iranian_Bot.git**
 
 شما باید به جای
 
-rezatak21  ای دی اک گیتابتون و
+PAydaar ای دی اک گیتابتون و
  
-به جای TeleTakTaz
+به جای iranain_bot
  
 اسم فایل خودتون رو وارد کنید
 
 و در این کد
 
-cd TeleTakTaz 
+cd Iranian_Bot 
 
-به جای TeleTakTaz
+به جای iranian_bot
 
 اسم فایل خودتون رو وارد کنید و سورس شما کامل میشه
 
@@ -103,4 +118,10 @@ cd TeleTakTaz
 
 تماس با ما
 ================
-[ShareAzam](https://telegram.me/ShareAzamam)
+[AmIr_PayDaAr](https://telegram.me/Amir_paydaar)
+
+and my friend [hacker13v](https://telegram.me/hacker13v)
+
+[**Support With Group**](https://telegram.me/joinchat/CZYDXQLnHzBfZZOsiAUHcA)
+
+**https://telegram.me/joinchat/CZYDXQLnHzBfZZOsiAUHcA**
